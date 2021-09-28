@@ -25,6 +25,6 @@ and then install `tensorflow-addons` (required for on-GPU image rotation) using 
 
 `pip install tensorflow-addons`
 
-The raw localization data and trained models can be downloaded from [here](https://drive.google.com/file/d/1SjAWtNEiLYu2My7Z2znpoEWxt3kskAea/view?usp=sharing) and should be placed in the `/data`folder.
+The raw localization data and trained models can be downloaded from [here](https://drive.google.com/file/d/1SjAWtNEiLYu2My7Z2znpoEWxt3kskAea/view?usp=sharing) and should be placed in the `/data` folder.
 
 
