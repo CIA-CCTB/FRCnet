@@ -6,7 +6,7 @@ This repository contains the code and data for
 
 *by Andreas Berberich, Andreas Kurz, Sebastian Reinhard, Torsten Johann Paul, Paul Ray Burd, Markus Sauer, Philip Kollmannsberger*
 
-This work was part of the MSc thesis project of Andreas Berberich in the Computational Image Analysis group of Philip Kollmannsberger at the Center for Computational and Theoretical Biology of the University of Würzburg, carried out between October 2018 and March 2020.
+This work was part of the MSc thesis project of Andreas Berberich in the Computational Image Analysis group of Philip Kollmannsberger at the [Center for Computational and Theoretical Biology](https://www.biozentrum.uni-wuerzburg.de/cctb/cctb/) of the University of Würzburg, carried out between October 2018 and March 2020.
 
 This repository contains the following files:
 
@@ -25,6 +25,6 @@ and then install `tensorflow-addons` (required for on-GPU image rotation) using 
 
 `pip install tensorflow-addons`
 
-The raw localization data and trained models are too big for github and can be downloaded from here.
+The raw localization data and trained models can be downloaded from [here](https://drive.google.com/file/d/1SjAWtNEiLYu2My7Z2znpoEWxt3kskAea/view?usp=sharing) and should be placed in the `/data`folder.
 
 
