@@ -1,0 +1,8 @@
+jupyter
+matplotlib
+numpy
+pandas
+scikit-image
+scipy
+tensorflow-gpu
+tensorflow-addons
