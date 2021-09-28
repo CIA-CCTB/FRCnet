@@ -1,4 +1,4 @@
-# FRC-Net
+# FRCnet
 
 This repository contains the code and data for
 
