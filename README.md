@@ -6,6 +6,8 @@ This repository contains the code and data for
 
 *by Andreas Berberich, Andreas Kurz, Sebastian Reinhard, Torsten Johann Paul, Paul Ray Burd, Markus Sauer, Philip Kollmannsberger*
 
+Frontiers in Bioinformatics 1:752788 (2021), https://doi.org/10.3389/fbinf.2021.752788
+
 This work was part of the MSc thesis project of Andreas Berberich in the Computational Image Analysis group of Philip Kollmannsberger at the [Center for Computational and Theoretical Biology](https://www.biozentrum.uni-wuerzburg.de/cctb/cctb/) of the University of Würzburg, carried out between October 2018 and March 2020.
 
 This repository contains the following files:
